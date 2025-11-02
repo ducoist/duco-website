@@ -10,7 +10,10 @@ date: "2024-12-10"
 introTitle: "Content Planning Like a Pro: <span class=\"mil-thin\">How to Build</span> a Monthly Calendar"
 author: 
   name: "Duco Istanbul"
-image: "/images/Blogs/Blog 3/Cover-min.jpg"
+image: "/images/Blogs/Blog 12/Cover-min.jpg"
+imageGallery:
+  - "/images/Blogs/Blog 12/MinPhoto-1-min.jpg"
+  - "/images/Blogs/Blog 12/MinPhoto-2-min.jpg"
 ---
 
 Behind every consistent brand is a smart content calendar. It's not just a planning tool—it's a strategic weapon.

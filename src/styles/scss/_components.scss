@@ -1238,7 +1238,12 @@ services
 .mil-service-card-sm {
     position: relative;
     display: block;
-    padding: 60px 30px;
+    padding: 60px 30px 100px 30px;
+    min-height: 280px;
+
+    & h5 {
+        min-height: 100px;
+    }
 
     & p {
         opacity: 0;
@@ -1252,6 +1257,9 @@ services
     }
 
     & .mil-button {
+        position: absolute;
+        bottom: 30px;
+        left: 30px;
         transform: scale(.3);
         filter: grayscale(100%);
         opacity: .4;

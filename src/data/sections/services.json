@@ -8,27 +8,27 @@
     },
     "items": [
         {
-            "title": "Brand Identity <br>and Design",
+            "title": "Brand Identity and Design",
             "text": "We shape brands with strategic clarity and distinctive visual language.",
             "link": "/services/brand-identity-design"
         },
         {
-            "title": "Web <br>Applications",
+            "title": "Web Applications",
             "text": "We build custom web solutions that merge design excellence with seamless functionality.",
             "link": "/services/web-applications"
         },
         {
-            "title": "Advertising and <br>Marketing Campaigns",
+            "title": "Advertising and Marketing Campaigns",
             "text": "We design targeted, results-driven campaigns that amplify brand visibility and impact.",
             "link": "/services/advertising-marketing-campaigns"
         },
         {
-            "title": "Influencer <br>Marketing",
+            "title": "Influencer Marketing",
             "text": "We connect brands with influential voices to foster authentic audience engagement.",
             "link": "/services/influencer-marketing"
         },
         {
-            "title": "Social Media <br>Management",
+            "title": "Social Media Management",
             "text": "We manage your presence with purpose—blending strategy, content, and consistency.",
             "link": "/services/social-media-management"
         }

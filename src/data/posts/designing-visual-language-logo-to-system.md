@@ -10,7 +10,10 @@ date: "2024-12-13"
 introTitle: "Designing a Visual Language: <span class=\"mil-thin\">From Logo to System</span>"
 author: 
   name: "Duco Istanbul"
-image: "/images/Blogs/Blog 4/Cover.png"
+image: "/images/Blogs/Blog 3/Cover-min.jpg"
+imageGallery:
+  - "/images/Blogs/Blog 3/MiniPhoto-1-min.jpg"
+  - "/images/Blogs/Blog 3/MiniPhoto-2-min.jpg"
 ---
 
 A logo is only the beginning. Brands today operate across dozens of touchpoints—websites, apps, packaging, social media, motion graphics, physical spaces—and consistency is key. That's where a visual language comes in.

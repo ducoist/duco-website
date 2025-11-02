@@ -10,7 +10,10 @@ date: "2024-12-11"
 introTitle: "5 Marketing Campaigns <span class=\"mil-thin\">That Changed the Game</span> (And Why)"
 author: 
   name: "Duco Istanbul"
-image: "/images/Blogs/Blog 5/Cover-min.jpg"
+image: "/images/Blogs/Blog 7/Cover-min.jpg"
+imageGallery:
+  - "/images/Blogs/Blog 7/MiniPhoto-1-min.jpg"
+  - "/images/Blogs/Blog 7/MiniPhoto-2-min.jpg"
 ---
 
 Great marketing doesn't just sell—it shifts perception, inspires loyalty, and sometimes even changes culture. At Duco İstanbul, we believe that behind every game-changing campaign is a smart combination of insight, timing, creativity, and execution.

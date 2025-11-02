@@ -65,7 +65,7 @@ const DefaultFooter = ( { extraClass } ) => {
 
                             <div className="col-md-12 mil-mb-60">
 
-                                <h6 className="mil-muted mil-up mil-mb-30">TURKEY</h6>
+                                <h6 className="mil-muted mil-up mil-mb-30">Türkiye</h6>
 
                                 <p className="mil-light-soft mil-up">Dap Vadisi Bumerang Ofis No:72 Kağıthane/İSTANBUL</p>
                                 <p className="mil-light-soft">Email: <span className="mil-no-wrap">hello@ducoistanbul.com</span></p>

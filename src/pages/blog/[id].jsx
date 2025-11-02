@@ -31,7 +31,19 @@ const PostsDetail = ( props ) => {
                   <div className="col-lg-8">
 
                       <div className="mil-text mil-up mil-mb-60" dangerouslySetInnerHTML={{__html : postData.contentHtml}} />
-                      
+
+                      {typeof postData.imageGallery != "undefined" && postData.imageGallery.length > 0 &&
+                        <div className="row mil-mb-60">
+                            {postData.imageGallery.map((imageSrc, key) => (
+                            <div className="col-lg-6" key={`mini-photo-${key}`}>
+                                <div className="mil-image-frame mil-horizontal mil-up mil-mb-30">
+                                    <img src={imageSrc} alt={`${postData.title} - Image ${key + 1}`} className="mil-scale" data-value-1=".90" data-value-2="1.15" />
+                                </div>
+                            </div>
+                            ))}
+                        </div>
+                      }
+
                       {typeof postData.gallery != "undefined" &&
                       <>
                         {postData.gallery.enabled == 1 &&

@@ -10,7 +10,10 @@ date: "2024-12-14"
 introTitle: "Color Psychology in Branding: <span class=\"mil-thin\">What Your Palette Says About You</span>"
 author: 
   name: "Duco Istanbul"
-image: "/images/Blogs/Blog 2/Cover-min (1).jpg"
+image: "/images/Blogs/Blog 2/Cover-min.jpg"
+imageGallery:
+  - "/images/Blogs/Blog 2/MiniPhoto-1-min.jpg"
+  - "/images/Blogs/Blog 2/MiniPhoto-2-min.jpg"
 ---
 
 Color is more than aesthetics—it's emotion, memory, and meaning. In branding, your color palette does more than look good; it sets the tone for how people feel about your brand—often before they read a single word.

@@ -5,220 +5,76 @@ import CallToActionSection from "@components/sections/CallToAction";
 
 const TeamData = [
     {
-        "image": "/img/faces/1.jpg",
-        "name": "Anna Oldman",
+        "image": "/images/Team/Salim Toprak.webp",
+        "name": "Salim Toprak",
+        "role": "Agency Head",
+        "social": []
+    },
+    {
+        "image": "/images/Team/Gül Şengül.webp",
+        "name": "Gül Şengül",
+        "role": "Social Media Group Head",
+        "social": []
+    },
+    {
+        "image": "/images/Team/Yeşim Şengül.webp",
+        "name": "Yeşim Şengül",
+        "role": "Content Specialist",
+        "social": []
+    },
+    {
+        "image": "/images/Team/Tunca Erkal.webp",
+        "name": "Tunca Erkal",
+        "role": "Creative Director",
+        "social": []
+    },
+    {
+        "image": "/images/Team/Furkan Doğan Eyeşmek.webp",
+        "name": "Furkan Doğan Eyeşmek",
         "role": "Art Director",
-        "social": [
-            {
-                "link": "https://behance.net/",
-                "icon": "fab fa-behance",
-                "title": "Behance"
-            },
-            {
-                "link": "https://dribbble.com/",
-                "icon": "fab fa-dribbble",
-                "title": "Dribbble"
-            },
-            {
-                "link": "https://twitter.com/",
-                "icon": "fab fa-twitter",
-                "title": "Twitter"
-            },
-            {
-                "link": "https://github.com/",
-                "icon": "fab fa-github",
-                "title": "Github"
-            }
-        ]
+        "social": []
     },
     {
-        "image": "/img/faces/3.jpg",
-        "name": "Oscar Freeman",
-        "role": "Frontend Dev",
-        "social": [
-            {
-                "link": "https://behance.net/",
-                "icon": "fab fa-behance",
-                "title": "Behance"
-            },
-            {
-                "link": "https://dribbble.com/",
-                "icon": "fab fa-dribbble",
-                "title": "Dribbble"
-            },
-            {
-                "link": "https://twitter.com/",
-                "icon": "fab fa-twitter",
-                "title": "Twitter"
-            },
-            {
-                "link": "https://github.com/",
-                "icon": "fab fa-github",
-                "title": "Github"
-            }
-        ]
+        "image": "/images/Team/Sezgin Sağ.webp",
+        "name": "Sezgin Bilal Sağ",
+        "role": "Accounts Director",
+        "social": []
     },
     {
-        "image": "/img/faces/2.jpg",
-        "name": "Emma Newman",
-        "role": "Founder",
-        "social": [
-            {
-                "link": "https://behance.net/",
-                "icon": "fab fa-behance",
-                "title": "Behance"
-            },
-            {
-                "link": "https://dribbble.com/",
-                "icon": "fab fa-dribbble",
-                "title": "Dribbble"
-            },
-            {
-                "link": "https://twitter.com/",
-                "icon": "fab fa-twitter",
-                "title": "Twitter"
-            },
-            {
-                "link": "https://github.com/",
-                "icon": "fab fa-github",
-                "title": "Github"
-            }
-        ]
+        "image": "/images/Team/Büke Sepet.webp",
+        "name": "Büke Sepet",
+        "role": "Influencer Manager",
+        "social": []
     },
     {
-        "image": "/img/faces/4.jpg",
-        "name": "Lisa Trueman",
-        "role": "UI/UX Designer",
-        "social": [
-            {
-                "link": "https://behance.net/",
-                "icon": "fab fa-behance",
-                "title": "Behance"
-            },
-            {
-                "link": "https://dribbble.com/",
-                "icon": "fab fa-dribbble",
-                "title": "Dribbble"
-            },
-            {
-                "link": "https://twitter.com/",
-                "icon": "fab fa-twitter",
-                "title": "Twitter"
-            },
-            {
-                "link": "https://github.com/",
-                "icon": "fab fa-github",
-                "title": "Github"
-            }
-        ]
+        "image": "/images/Team/Berrak Çakır.webp",
+        "name": "Berrak Çakır",
+        "role": "Influencer Marketing",
+        "social": []
     },
     {
-        "image": "/img/faces/5.jpg",
-        "name": "Tom Oldman",
-        "role": "Art Director",
-        "social": [
-            {
-                "link": "https://behance.net/",
-                "icon": "fab fa-behance",
-                "title": "Behance"
-            },
-            {
-                "link": "https://dribbble.com/",
-                "icon": "fab fa-dribbble",
-                "title": "Dribbble"
-            },
-            {
-                "link": "https://twitter.com/",
-                "icon": "fab fa-twitter",
-                "title": "Twitter"
-            },
-            {
-                "link": "https://github.com/",
-                "icon": "fab fa-github",
-                "title": "Github"
-            }
-        ]
+        "image": "/images/Team/Pınar İstemi.webp",
+        "name": "Pınar İstemi",
+        "role": "Sound & Music Producer",
+        "social": []
     },
     {
-        "image": "/img/faces/6.jpg",
-        "name": "Corey Trueman",
-        "role": "Technical Director",
-        "social": [
-            {
-                "link": "https://behance.net/",
-                "icon": "fab fa-behance",
-                "title": "Behance"
-            },
-            {
-                "link": "https://dribbble.com/",
-                "icon": "fab fa-dribbble",
-                "title": "Dribbble"
-            },
-            {
-                "link": "https://twitter.com/",
-                "icon": "fab fa-twitter",
-                "title": "Twitter"
-            },
-            {
-                "link": "https://github.com/",
-                "icon": "fab fa-github",
-                "title": "Github"
-            }
-        ]
+        "image": "/images/Team/Esra Aşık.webp",
+        "name": "Esra Aşık",
+        "role": "Digital Marketing Specialist",
+        "social": []
     },
     {
-        "image": "/img/faces/7.jpg",
-        "name": "Justin Newman",
-        "role": "Copywriter",
-        "social": [
-            {
-                "link": "https://behance.net/",
-                "icon": "fab fa-behance",
-                "title": "Behance"
-            },
-            {
-                "link": "https://dribbble.com/",
-                "icon": "fab fa-dribbble",
-                "title": "Dribbble"
-            },
-            {
-                "link": "https://twitter.com/",
-                "icon": "fab fa-twitter",
-                "title": "Twitter"
-            },
-            {
-                "link": "https://github.com/",
-                "icon": "fab fa-github",
-                "title": "Github"
-            }
-        ]
+        "image": "/images/Team/Oğuz Maya.webp",
+        "name": "Oğuz Maya",
+        "role": "Sales & Marketing Lead",
+        "social": []
     },
     {
-        "image": "/img/faces/8.jpg",
-        "name": "Spunkie",
-        "role": "Paw giver",
-        "social": [
-            {
-                "link": "https://behance.net/",
-                "icon": "fab fa-behance",
-                "title": "Behance"
-            },
-            {
-                "link": "https://dribbble.com/",
-                "icon": "fab fa-dribbble",
-                "title": "Dribbble"
-            },
-            {
-                "link": "https://twitter.com/",
-                "icon": "fab fa-twitter",
-                "title": "Twitter"
-            },
-            {
-                "link": "https://github.com/",
-                "icon": "fab fa-github",
-                "title": "Github"
-            }
-        ]
+        "image": "/images/Team/Yeliz Eren.webp",
+        "name": "Yeliz Eren",
+        "role": "Lead Analyst",
+        "social": []
     }
 ]
 

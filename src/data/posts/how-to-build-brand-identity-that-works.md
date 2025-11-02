@@ -11,6 +11,9 @@ introTitle: "How to Build a Brand Identity <span class=\"mil-thin\">That Actuall
 author: 
   name: "Duco Istanbul"
 image: "/images/Blogs/Blog 1/Cover-min.jpg"
+imageGallery:
+  - "/images/Blogs/Blog 1/MiniPhoto-1-min.jpg"
+  - "/images/Blogs/Blog 1/MiniPhoto-2-min.jpg"
 ---
 
 A brand identity isn't just a logo—it's the complete visual and emotional system that defines how your audience perceives you. At Duco İstanbul, we believe successful brand identity must strike the right balance between strategic thinking and creative execution.

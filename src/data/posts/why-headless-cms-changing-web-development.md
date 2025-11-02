@@ -10,7 +10,10 @@ date: "2024-12-12"
 introTitle: "Why Headless CMS is <span class=\"mil-thin\">Changing the Future</span> of Web Development"
 author: 
   name: "Duco Istanbul"
-image: "/images/Blogs/Blog 6/Cover-min.jpg"
+image: "/images/Blogs/Blog 4/Cover.png"
+imageGallery:
+  - "/images/Blogs/Blog 4/MiniPhoto-1-min.jpg"
+  - "/images/Blogs/Blog 4/MiniPhoto-2-min.jpg"
 ---
 
 The way we build websites and digital products is evolving—and content management is at the center of that transformation. Enter the Headless CMS.
