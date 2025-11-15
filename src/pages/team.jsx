@@ -69,12 +69,6 @@ const TeamData = [
         "name": "Oğuz Maya",
         "role": "Sales & Marketing Lead",
         "social": []
-    },
-    {
-        "image": "/images/Team/Yeliz Eren.webp",
-        "name": "Yeliz Eren",
-        "role": "Lead Analyst",
-        "social": []
     }
 ]
 
